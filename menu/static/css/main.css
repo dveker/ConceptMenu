@@ -1,8 +1,13 @@
     body, ul {
       margin: 0;
       padding: 0;
+      background-color: #d4d0d0;
     }
 
+
+    #menu {
+      background-color: #58748f; 
+    }
 
 
     /* Navbar styles */
@@ -159,6 +164,11 @@
       font-size: 16px;
       cursor: pointer;
     }
+
+
+
+
+    
 
     .back-to-top.show {
       display: block;
